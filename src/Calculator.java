@@ -1,7 +1,7 @@
 import java.util.InputMismatchException;
 import java.util.Scanner;
 
-public class personalProject1 {
+public class Calculator {
     public static void main(String[] args) {
         boolean statement;
         Scanner scanner = new Scanner(System.in);
