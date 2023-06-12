@@ -68,7 +68,6 @@ public class Calculator {
 
 
     public static void addition(double number1, double number2) {
-
         double addition = number1 + number2;
         System.out.println(addition);
     }
@@ -83,7 +82,7 @@ public class Calculator {
         System.out.println(substraction);
     }
 
-    public static double multiplication(double number1, double number2) {
+    public static void multiplication(double number1, double number2) {
         double multiplication = number1 * number2;
         System.out.println(multiplication);
     }
