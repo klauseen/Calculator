@@ -33,6 +33,7 @@ public class Calculator {
             }
 
         } while (statement);
+        
         System.out.println("Enter the second number");
         double number2 = 0;
 
@@ -85,7 +86,6 @@ public class Calculator {
     public static double multiplication(double number1, double number2) {
         double multiplication = number1 * number2;
         System.out.println(multiplication);
-        return multiplication;
     }
 
 }
